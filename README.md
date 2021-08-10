@@ -20,6 +20,6 @@ The `sfdx-project.json` file contains useful configuration information for your 
 
 ## Add this to practice
 
-I make a change to line 23
+I change the change to line 23
 
 I make more changes to line 25
